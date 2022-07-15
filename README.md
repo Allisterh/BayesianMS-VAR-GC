@@ -9,7 +9,7 @@ by Matthieu Droumaguet, Anders Warne, \& Tomasz Woźniak
 
 ## Citation
 
-To refer to the codes in publications, please, cite the following paper:
+To refer to the code in publications, please, cite the following paper:
 
 > Droumaguet, M., Warne, A., Woźniak, T. (2017) Granger Causality and Regime Inference in Markov-Switching VAR Models with Bayesian Methods, *Journal of Applied Econometrics*, 32(4), pp. 802--818, DOI: [10.1002/jae.2531](http://doi.org/10.1002/jae.2531).
 
@@ -23,9 +23,9 @@ The project's file structure includes:
 - `ReproductionScripts` - a folder containing scripts for the reproduction of all the results contained in the JAE paper
 - `data.csv` and `data.RData` - data used in the paper
 
-## Downloading the codes
+## Downloading the code
 
-To download the codes simply click on the download icon on the top of this page
+To download the code simply click on the download icon on the top of this page
 
 ![](gl-download.png)
 
